@@ -1,4 +1,7 @@
 # hello-world
 This is a Hello World repository 
+Academic research interest:  silicon photonics, fibre-optic devices, electronic and optical sensor
+design and device characterizations, microwave photonics and optoelectronics
 
-This is a testing for the commit changes saved in the readme-edits branch. 
+Email:
+yangelec@gmail.com
